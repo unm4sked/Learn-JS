@@ -34,7 +34,7 @@ console.log('----------------');
 
 var x = "0";
 function one(){
-	//var x = "1";
+	var x = "1";
 	console.log("One: "+x);
 
 	function two(){
